@@ -1,5 +1,5 @@
 //
-////RANDO
+////HIKING
 //var imageCouvertureRando : String
 //var nomRando : String
 //var niveauRando :
@@ -8,7 +8,7 @@
 //var denivele : Int
 //var descriptionRando : String
 //
-////PROFIL UTILISATEUR
+////USER PROFIL
 //var nomUtilisateur : String
 //var prenomUtilisateur : String
 //var bioUtilisateur : String
